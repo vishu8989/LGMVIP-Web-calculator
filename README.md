@@ -1,2 +1,2 @@
-# LGMVIP-Web
+# calculator
 calculator using html css &amp; js
